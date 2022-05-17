@@ -11,7 +11,7 @@ You can configure your import inside `import.js`.
     config = {
         folder: 'scripts',
         rootUrl: 'https://raw.githubusercontent.com/rypti/bitburner-scripts/main/',
-        serverPrefix: 'ChaelPwns',
+        serverPrefix: 'pserv',
     };
 ```
 
