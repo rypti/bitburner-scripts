@@ -1,7 +1,7 @@
 let config = {
   folder: 'scripts',
   rootUrl: 'https://raw.githubusercontent.com/rypti/bitburner-scripts/main/',
-  serverPrefix: 'ChaelPwns',
+  serverPrefix: 'pserv',
 };
 /*
  * This will import all files listed in importFiles.
