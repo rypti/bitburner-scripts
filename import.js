@@ -1,6 +1,6 @@
 let config = {
   folder: 'scripts',
-  rootUrl: 'https://raw.githubusercontent.com/ChaelCodes/bitburner-scripts/main/',
+  rootUrl: 'https://raw.githubusercontent.com/rypti/bitburner-scripts/main/',
   serverPrefix: 'ChaelPwns',
 };
 /*
